@@ -1,0 +1,10 @@
+pyspark==3.5.6
+ipykernel
+ipywidgets
+
+ydata-profiling[pyspark]
+setuptools
+
+plotly
+seaborn
+matplotlib
